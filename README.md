@@ -1,5 +1,5 @@
 # Weather App
-This is a simple Weather App web application that allows users to check the weather of a city by entering its name.
+This is a Weather App web application that allows users to check the weather of a city by entering its name.
 
 ### Features
 -  City Input: Users can enter the name of the city they want to check the weather for.
