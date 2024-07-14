@@ -12,7 +12,7 @@ File Structure
 -  Contains the CSS styling for the web application.
 -  Contains the JavaScript functionality for fetching weather data and updating the UI.
 
-##Built with 
+### Built with 
 - HTML5
 - CSS
 - Javascript
