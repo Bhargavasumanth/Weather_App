@@ -8,12 +8,12 @@ Features
 -  Invalid Data Handling: Shows an error message for invalid city names or if the city is not found.
   
 File Structure
--  index.html: Contains the HTML structure of the web application.
--  Styles.css: Contains the CSS styling for the web application.
--  script.js: Contains the JavaScript functionality for fetching weather data and updating the UI.
+-  Contains the HTML structure of the web application.
+-  Contains the CSS styling for the web application.
+-  Contains the JavaScript functionality for fetching weather data and updating the UI.
 
-How to Use
--  Open index.html in a web browser.
--  Enter the name of the city you want to check the weather for in the input field.
--  Click the search button or press Enter.
--  The weather information for the entered city will be displayed.
+##Built with 
+- HTML5
+- CSS
+- Javascript
+- Bootstap Framework
